@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @glaukko
-
-22
-Software Engineer
-🇧🇷
+- 22
+- 🇧🇷
+- Majoring in Software Engineering
+- Been developing for almost 10 years
 
   Discord: glaukko
 
