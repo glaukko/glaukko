@@ -5,7 +5,7 @@
 - Majoring in Software Engineering
 - More than 10 years since first Dev experience
 
-  Discord: glaukko
+  Discord: glaukko\n
   Instagram: <a href="https://www.instagram.com/glaukko_/">@glaukko_</a>
 
 <!---
