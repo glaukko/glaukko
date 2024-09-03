@@ -2,7 +2,7 @@
 - 22
 - 🇧🇷
 - Majoring in Software Engineering
-- Been developing for almost 10 years
+- More than 10 years since first Dev experience
 
   Discord: glaukko
 
