@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @glaukko
+- Full Stack Developer
 - 22
 - 🇧🇷
 - Majoring in Software Engineering
