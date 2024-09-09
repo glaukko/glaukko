@@ -4,8 +4,7 @@
 - 🇧🇷
 - Majoring in Software Engineering
 
-  Discord: glaukko<br>
-  Instagram: <a href="https://www.instagram.com/glaukko_/">@glaukko_</a>
+  Discord: glaukko
 
 <!---
 glaukko/glaukko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
