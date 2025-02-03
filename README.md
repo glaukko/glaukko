@@ -3,8 +3,8 @@
 I'm Majoring in Software Engineering
 
 - Full Stack Developer
-- 22
-- 🇧🇷
+- Back-End Preference
+- C# My Beloved
 
 Discord: glaukko
 
