@@ -1,5 +1,5 @@
 ### Welcome!
-👋 Hi, I’m glaukko. I'm from Brazil, 22 years old and I have been coding for fun since I was 12.
+👋 Hi, I’m glaukko. I'm from Brazil, 22 years old and I have been passionate about programming since I was 12.
 I'm Majoring in Software Engineering
 
 - Full Stack Developer
