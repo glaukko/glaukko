@@ -1,10 +1,7 @@
 ### Welcome!
 👋 Hi, I’m glaukko. I'm from Brazil, 22 years old and I have been passionate about programming since I was 12.
-I'm Majoring in Software Engineering
+I'm Majoring in Software Engineering and I'm a Full Stack Developer
 
-- Full Stack Developer
-- Back-End Preference
-- C# My Beloved
 
 Discord: glaukko
 
