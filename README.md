@@ -3,8 +3,21 @@
 
 I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
+## Tech
 
-Discord: glaukko
+**Web:** HTML, CSS, JavaScript
+**Languages:** C++, C#, Python, Java
+**Frameworks:** React, Spring, .NET, Django, Flask
+**Cloud:** AWS, GCP, Firebase
+**Database:** SQL, MongoDB
+**DevOps:** Docker, Terraform
+**Other:** Unity, GameMaker
+
+
+## Contact
+
+✉️ E-mail: [glaucoheitor2@hotmail.com](mailto:glaucoheitor2@hotmail.com)
+![discord](https://github.com/user-attachments/assets/9f0a3642-f804-4920-81ba-9c8a07aa71ad = 64x64) Discord: glaukko
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glaukko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
