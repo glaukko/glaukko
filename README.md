@@ -1,5 +1,6 @@
 ### Welcome!
 👋 Hi, I’m glaukko. I'm from Brazil, 22 years old.
+
 I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
 
