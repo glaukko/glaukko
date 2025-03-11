@@ -6,11 +6,17 @@ I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 ## Tech
 
 **Web:** HTML, CSS, JavaScript
+
 **Languages:** C++, C#, Python, Java
+
 **Frameworks:** React, Spring, .NET, Django, Flask
+
 **Cloud:** AWS, GCP, Firebase
+
 **Database:** SQL, MongoDB
+
 **DevOps:** Docker, Terraform
+
 **Other:** Unity, GameMaker
 
 
