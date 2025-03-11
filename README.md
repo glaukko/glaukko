@@ -17,7 +17,7 @@ I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
 **DevOps:** Docker, Terraform
 
-**Other:** Unity, GameMaker
+**Game Engine:** Unity, GameMaker
 
 
 ## Contact
