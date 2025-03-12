@@ -7,9 +7,7 @@ I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
 **Web:** HTML, CSS, JavaScript
 
-**Languages:** C++, C#, Python, Java
-
-**Frameworks:** React, Spring, .NET, Django, Flask
+**Languages:** C++, C#, Java, Python
 
 **Cloud:** AWS, GCP, Firebase
 
