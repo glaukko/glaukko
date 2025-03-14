@@ -19,7 +19,7 @@ I have been passionate about technology since I was a kid, and now I'm looking t
 
 **Database:** SQL, MongoDB
 
-**DevOps:** Docker, Terraform
+**DevOps:** Docker, Nginx
 
 **Game Engine:** Unity, GameMaker
 
