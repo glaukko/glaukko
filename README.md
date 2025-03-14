@@ -15,7 +15,7 @@ I have been passionate about technology since I was a kid, and now I'm looking t
 
 **Programming Languages:** C++, C#, Java, Python
 
-**Frameworks:** React, Tkinter, Django, Flask
+**Frameworks:** React, .NET, Tkinter, Django, Flask
 
 **Cloud:** AWS, GCP, Firebase
 
