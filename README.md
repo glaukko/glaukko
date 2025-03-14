@@ -15,13 +15,14 @@ I have been passionate about technology since I was a kid, and now I'm looking t
 
 **Languages:** C++, C#, Java, Python
 
+**Frameworks:** React, Tkinter, Django, Flask
+
 **Cloud:** AWS, GCP, Firebase
 
-**Database:** SQL, MongoDB
+**Database:** SQL
 
 **DevOps:** Docker, Nginx
 
-**Game Engine:** Unity, GameMaker
 
 
 ## Contact
