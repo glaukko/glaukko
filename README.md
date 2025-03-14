@@ -13,7 +13,7 @@ I have been passionate about technology since I was a kid, and now I'm looking t
 
 **Web:** HTML, CSS, JavaScript
 
-**Languages:** C++, C#, Java, Python
+**Programming Languages:** C++, C#, Java, Python
 
 **Frameworks:** React, Tkinter, Django, Flask
 
