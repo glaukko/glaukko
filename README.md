@@ -3,9 +3,7 @@
 
 I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
-## About Me
-
-I have been passionate about technology since I was a kid, and now I'm looking to make a career out of it
+I love studying Programming, Computer Science, Machine Learning.
 
 **Languages:** EN-US 🇺🇸 PT-BR 🇧🇷
 
