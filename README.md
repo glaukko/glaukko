@@ -5,8 +5,6 @@ I'm a Full Stack Developer and I'm majoring in Software Engineering at FIAP.
 
 I love studying Programming, Computer Science, Web Development, Machine Learning.
 
-Favorite Prog Languages: C#, Python, Java, JS
-
 **Languages:** EN-US 🇺🇸 PT-BR 🇧🇷
 
 ## Contact
