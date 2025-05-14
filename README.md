@@ -11,7 +11,7 @@ I love studying Programming, Computer Science, Web Development, Machine Learning
 
 ✉️ E-mail: [glaucoheitor2@hotmail.com](mailto:glaucoheitor2@hotmail.com)
 
-<img src="https://github.com/user-attachments/assets/9f0a3642-f804-4920-81ba-9c8a07aa71ad" width="16" height="16"/> Discord: glaukko
+<img src="https://github.com/user-attachments/assets/9f0a3642-f804-4920-81ba-9c8a07aa71ad" width="16" height="16"/> Discord: glaukkoo
 
 <!---
 glaukko/glaukko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
